@@ -1,0 +1,3 @@
+\Esquematicos - PCBS\placa altium modelo\__Previews
+\Esquematicos - PCBS\placa altium modelo\__History
+Debug
